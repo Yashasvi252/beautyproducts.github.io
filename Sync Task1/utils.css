@@ -1,0 +1,67 @@
+.min-h-screen{
+    min-height: 100vh;
+}
+
+.bg-red{
+    background-color: red;
+}
+
+.mx-auto{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.flex{
+    display: flex;
+}
+
+.item-center{
+    align-items: center;
+}
+
+.justify-between{
+    justify-content: space-between;
+}
+
+.justify-center{
+    justify-content: space-center;
+}
+
+.font-bold{
+    font-weight: bold;
+}
+
+.flex-col{
+    flex-direction: column;
+}
+
+.my-1{
+    margin-top:13px ;
+    margin-bottom: 13px;
+}
+.my-2{
+    margin-top:26px ;
+    margin-bottom: 26px;
+}
+
+.px-2{
+    padding-left:13px ;
+    padding-right: 13px;
+}
+
+.text-blue{
+    color: rgb(59, 3, 69);
+}
+
+.btn{
+    padding: 4px 12px;
+    border: 2px solid black;
+    border-radius: 12px;
+    cursor: pointer;
+    color: white;
+    background-color: rgb(59, 3, 69) ;
+}
+
+.text-center{
+    text-align: center;
+}
